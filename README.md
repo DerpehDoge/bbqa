@@ -1,4 +1,4 @@
 # bbqa
-a barbeque app for the national barbeque association, or something i guess
+a barbeque app for the something i guess
 
 very cool thing yes slay
